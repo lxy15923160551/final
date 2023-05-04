@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+mvdnet.egg-info/PKG-INFO
+mvdnet.egg-info/SOURCES.txt
+mvdnet.egg-info/dependency_links.txt
+mvdnet.egg-info/requires.txt
+mvdnet.egg-info/top_level.txt
